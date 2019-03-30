@@ -1,2 +1,3 @@
 # asteroids
-CSharp space game demo
+Unitu 3D space game demo.
+Developed under Ubuntu with Unity3D Editor + JetBrais Rider
